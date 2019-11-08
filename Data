@@ -1,649 +1,649 @@
-%Aldershot : c : y : currentparty : currentrep : syndicaterep
-%AldridgeBrownHills : c : y : currentparty : currentrep : syndicaterep
-%Altrincham and Sale West: c : y : currentparty : currentrep : syndicaterep
-%AmberValley: c : y : currentparty : currentrep : syndicaterep
-%Arundel and South Downs: c : y : currentparty : currentrep : syndicaterep
-%Ashfield: c : y : currentparty : currentrep : syndicaterep
-%Ashford: c : y : currentparty : currentrep : syndicaterep
-%Ashton-under-Lyne: c : y : currentparty : currentrep : syndicaterep
-%Aylesbury: c : y : currentparty : currentrep : syndicaterep
-%Banbury: c : y : currentparty : currentrep : syndicaterep
-%Barking : c : y : currentparty : currentrep : syndicaterep
-%Barnsley Central : c : y : currentparty : currentrep : syndicaterep
-%Barnsley East: c : y : currentparty : currentrep : syndicaterep
-%Barrow and Furness: c : y : currentparty : currentrep : syndicaterep
-%Basildon and Billericay: c : y : currentparty : currentrep : syndicaterep
-%Basingstoke: c : y : currentparty : currentrep : syndicaterep
-%Bassetlaw: c : y : currentparty : currentrep : syndicaterep
-%Bath: c : y : currentparty : currentrep : syndicaterep
-%Batley and Spen: c : y : currentparty : currentrep : syndicaterep
-%Battersea: c : y : currentparty : currentrep : syndicaterep
-%Beaconsfield : c : y : currentparty : currentrep : syndicaterep
-%Beckenham : c : y : currentparty : currentrep : syndicaterep
-%Bedford: c : y : currentparty : currentrep : syndicaterep
-%Bermondsey and Old Southwark: c : y : currentparty : currentrep : syndicaterep
-%Berwick-upon-Tweed: c : y : currentparty : currentrep : syndicaterep
-%Bethnal Green and Bow: c : y : currentparty : currentrep : syndicaterep
-%Beverley and Holderness: c : y : currentparty : currentrep : syndicaterep
-%Bexhill and Battle: c : y : currentparty : currentrep : syndicaterep
-%Bexleyheath and Crayford: c : y : currentparty : currentrep : syndicaterep
-%Birkenhead: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Edgbaston : c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Erdington : c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Hall Green: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Hodge Hill	: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Ladywood: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Northfield c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Perry Barr: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Selly Oak: c : y : currentparty : currentrep : syndicaterep
-%Birmingham, Yardley: c : y : currentparty : currentrep : syndicaterep
-%Bishop Auckland: c : y : currentparty : currentrep : syndicaterep
-%Blackburn : c : y : currentparty : currentrep : syndicaterep
-%Blackley and Broughton : c : y : currentparty : currentrep : syndicaterep
-%Blackpool North and Cleveleys: c : y : currentparty : currentrep : syndicaterep
-%Blackpool South: c : y : currentparty : currentrep : syndicaterep
-%Blaydon: c : y : currentparty : currentrep : syndicaterep
-%Blyth Valley: c : y : currentparty : currentrep : syndicaterep
-%Bognor Regis and Littlehampton: c : y : currentparty : currentrep : syndicaterep
-%Bolsover: c : y : currentparty : currentrep : syndicaterep
-%Bolton North East: c : y : currentparty : currentrep : syndicaterep
-%Bolton South East: c : y : currentparty : currentrep : syndicaterep
-%Bolton West : c : y : currentparty : currentrep : syndicaterep
-%Bootle : c : y : currentparty : currentrep : syndicaterep
-%Boston and Skegness: c : y : currentparty : currentrep : syndicaterep
-%Bosworth: c : y : currentparty : currentrep : syndicaterep
-%Bournemouth East: c : y : currentparty : currentrep : syndicaterep
-%Bournemouth West: c : y : currentparty : currentrep : syndicaterep
-%Bracknell: c : y : currentparty : currentrep : syndicaterep
-%Bradford East: c : y : currentparty : currentrep : syndicaterep
-%Bradford South: c : y : currentparty : currentrep : syndicaterep
-%Bradford West: c : y : currentparty : currentrep : syndicaterep
-%Braintree : c : y : currentparty : currentrep : syndicaterep
-%Brent Central : c : y : currentparty : currentrep : syndicaterep
-%Brent North : c : y : currentparty : currentrep : syndicaterep
-%Brentford and Isleworth : c : y : currentparty : currentrep : syndicaterep
-%Brentwood and Ongar : c : y : currentparty : currentrep : syndicaterep
-%Bridgwater and West Somerset : c : y : currentparty : currentrep : syndicaterep
-%Brigg and Goole : c : y : currentparty : currentrep : syndicaterep
-%Brighton, Kemptown : c : y : currentparty : currentrep : syndicaterep
-%Brighton, Pavilion : c : y : currentparty : currentrep : syndicaterep
-%Bristol East : c : y : currentparty : currentrep : syndicaterep
-%Bristol North West : c : y : currentparty : currentrep : syndicaterep
-%Bristol South : c : y : currentparty : currentrep : syndicaterep
-%Bristol West : c : y : currentparty : currentrep : syndicaterep
-%Broadland : c : y : currentparty : currentrep : syndicaterep
-%Bromley and Chislehurst : c : y : currentparty : currentrep : syndicaterep
-%Bromsgrove : c : y : currentparty : currentrep : syndicaterep
-%Broxbourne : c : y : currentparty : currentrep : syndicaterep
-%Broxtowe : c : y : currentparty : currentrep : syndicaterep
-%Buckingham : c : y : currentparty : currentrep : syndicaterep
-%Burnley : c : y : currentparty : currentrep : syndicaterep
-%Burton : c : y : currentparty : currentrep : syndicaterep
-%Bury North : c : y : currentparty : currentrep : syndicaterep
-%Bury South : c : y : currentparty : currentrep : syndicaterep
-%Bury St Edmunds : c : y : currentparty : currentrep : syndicaterep
-%Calder Valley : c : y : currentparty : currentrep : syndicaterep
-%Camberwell and Peckham : c : y : currentparty : currentrep : syndicaterep
-%Camborne and Redruth : c : y : currentparty : currentrep : syndicaterep
-%Cambridge : c : y : currentparty : currentrep : syndicaterep
-%Cannock Chase : c : y : currentparty : currentrep : syndicaterep
-%Canterbury : c : y : currentparty : currentrep : syndicaterep
-%Carlisle : c : y : currentparty : currentrep : syndicaterep
-%Carshalton and Wallington : c : y : currentparty : currentrep : syndicaterep
-%Castle Point : c : y : currentparty : currentrep : syndicaterep
-%Central Devon : c : y : currentparty : currentrep : syndicaterep
-%Central Suffolk and North Ipswich : c : y : currentparty : currentrep : syndicaterep
-%Charnwood : c : y : currentparty : currentrep : syndicaterep
-%Chatham and Aylesford : c : y : currentparty : currentrep : syndicaterep
-%Cheadle : c : y : currentparty : currentrep : syndicaterep
-%Chelmsford : c : y : currentparty : currentrep : syndicaterep
-%Chelsea and Fulham : c : y : currentparty : currentrep : syndicaterep
-%Cheltenham : c : y : currentparty : currentrep : syndicaterep
-%Chesham and Amersham : c : y : currentparty : currentrep : syndicaterep
-%Chesterfield : c : y : currentparty : currentrep : syndicaterep
-%Chichester : c : y : currentparty : currentrep : syndicaterep
-%Chingford and Woodford Green : c : y : currentparty : currentrep : syndicaterep
-%Chippenham : c : y : currentparty : currentrep : syndicaterep
-%Chipping Barnet : c : y : currentparty : currentrep : syndicaterep
-%Chorley : c : y : currentparty : currentrep : syndicaterep
-%Christchurch: c : y : currentparty : currentrep : syndicaterep
-%Cities of London and Westminster : c : y : currentparty : currentrep : syndicaterep
-%City of Chester : c : y : currentparty : currentrep : syndicaterep
-%City of Durham : c : y : currentparty : currentrep : syndicaterep
-%Clacton : c : y : currentparty : currentrep : syndicaterep
-%Cleethorpes : c : y : currentparty : currentrep : syndicaterep
-%Colchester : c : y : currentparty : currentrep : syndicaterep
-%Colne Valley : c : y : currentparty : currentrep : syndicaterep
-%Congleton : c : y : currentparty : currentrep : syndicaterep
-%Copeland : c : y : currentparty : currentrep : syndicaterep
-%Corby : c : y : currentparty : currentrep : syndicaterep
-%Coventry North East : c : y : currentparty : currentrep : syndicaterep
-%Coventry North West : c : y : currentparty : currentrep : syndicaterep
-%Coventry South : c : y : currentparty : currentrep : syndicaterep
-%Crawley : c : y : currentparty : currentrep : syndicaterep
-%Crewe and Nantwich : c : y : currentparty : currentrep : syndicaterep
-%Croydon Central : c : y : currentparty : currentrep : syndicaterep
-%Croydon North : c : y : currentparty : currentrep : syndicaterep
-%Croydon South : c : y : currentparty : currentrep : syndicaterep
-%Dagenham and Rainham : c : y : currentparty : currentrep : syndicaterep
-%Darlington : c : y : currentparty : currentrep : syndicaterep
-%Dartford : c : y : currentparty : currentrep : syndicaterep
-%Daventry : c : y : currentparty : currentrep : syndicaterep
-%Denton and Reddish : c : y : currentparty : currentrep : syndicaterep
-%Derby North : c : y : currentparty : currentrep : syndicaterep
-%Derby South : c : y : currentparty : currentrep : syndicaterep
-%Derbyshire Dales : c : y : currentparty : currentrep : syndicaterep
-%Devizes : c : y : currentparty : currentrep : syndicaterep
-%Dewsbury : c : y : currentparty : currentrep : syndicaterep
-%Don Valley : c : y : currentparty : currentrep : syndicaterep
-%Doncaster Central : c : y : currentparty : currentrep : syndicaterep
-%Doncaster North : c : y : currentparty : currentrep : syndicaterep
-%Dover : c : y : currentparty : currentrep : syndicaterep
-%Dudley North : c : y : currentparty : currentrep : syndicaterep
-%Dudley South : c : y : currentparty : currentrep : syndicaterep
-%Dulwich and West Norwood : c : y : currentparty : currentrep : syndicaterep
-%Ealing Central and Acton : c : y : currentparty : currentrep : syndicaterep
-%Ealing North : c : y : currentparty : currentrep : syndicaterep
-%Ealing, Southall : c : y : currentparty : currentrep : syndicaterep
-%Easington : c : y : currentparty : currentrep : syndicaterep
-%East Devon : c : y : currentparty : currentrep : syndicaterep
-%East Ham : c : y : currentparty : currentrep : syndicaterep
-%East Hampshire : c : y : currentparty : currentrep : syndicaterep
-%East Surrey : c : y : currentparty : currentrep : syndicaterep
-%East Worthing and Shoreham : c : y : currentparty : currentrep : syndicaterep
-%East Yorkshire : c : y : currentparty : currentrep : syndicaterep
-%Eastbourne : c : y : currentparty : currentrep : syndicaterep
-%Eastleigh : c : y : currentparty : currentrep : syndicaterep
-%Eddisbury : c : y : currentparty : currentrep : syndicaterep
-%Edmonton : c : y : currentparty : currentrep : syndicaterep
-%Ellesmere Port and Neston : c : y : currentparty : currentrep : syndicaterep
-%Elmet and Rothwell: c : y : currentparty : currentrep : syndicaterep
-%Eltham : c : y : currentparty : currentrep : syndicaterep
-%Enfield North : c : y : currentparty : currentrep : syndicaterep
-%Enfield, Southgate : c : y : currentparty : currentrep : syndicaterep
-%Epping Forest : c : y : currentparty : currentrep : syndicaterep
-%Epsom and Ewell : c : y : currentparty : currentrep : syndicaterep
-%Erewash : c : y : currentparty : currentrep : syndicaterep
-%Erith and Thamesmead : c : y : currentparty : currentrep : syndicaterep
-%Esher and Walton : c : y : currentparty : currentrep : syndicaterep
-%Exeter : c : y : currentparty : currentrep : syndicaterep
-%Fareham : c : y : currentparty : currentrep : syndicaterep
-%Faversham and Mid Kent : c : y : currentparty : currentrep : syndicaterep
-%Feltham and Heston : c : y : currentparty : currentrep : syndicaterep
-%Filton and Bradley Stoke : c : y : currentparty : currentrep : syndicaterep
-%Finchley and Golders Green : c : y : currentparty : currentrep : syndicaterep
-%Folkestone and Hythe : c : y : currentparty : currentrep : syndicaterep
-%Forest of Dean : c : y : currentparty : currentrep : syndicaterep
-%Fylde : c : y : currentparty : currentrep : syndicaterep
-%Gainsborough : c : y : currentparty : currentrep : syndicaterep
-%Gateshead : c : y : currentparty : currentrep : syndicaterep
-%Gedling: c : y : currentparty : currentrep : syndicaterep
-%Gillingham and Rainham : c : y : currentparty : currentrep : syndicaterep
-%Gloucester : c : y : currentparty : currentrep : syndicaterep
-%Gosport : c : y : currentparty : currentrep : syndicaterep
-%Grantham and Stamford : c : y : currentparty : currentrep : syndicaterep
-%Gravesham : c : y : currentparty : currentrep : syndicaterep
-%Great Grimsby : c : y : currentparty : currentrep : syndicaterep
-%Great Yarmouth : c : y : currentparty : currentrep : syndicaterep
-%Greenwich and Woolwich : c : y : currentparty : currentrep : syndicaterep
-%Guildford : c : y : currentparty : currentrep : syndicaterep
-%Hackney North and Stoke Newington : c : y : currentparty : currentrep : syndicaterep
-%Hackney South and Shoreditch : c : y : currentparty : currentrep : syndicaterep
-%Halesowen and Rowley Regis : c : y : currentparty : currentrep : syndicaterep
-%Halifax : c : y : currentparty : currentrep : syndicaterep
-%Haltemprice and Howden : c : y : currentparty : currentrep : syndicaterep
-%Halton : c : y : currentparty : currentrep : syndicaterep
-%Hammersmith : c : y : currentparty : currentrep : syndicaterep
-%Hampstead and Kilburn : c : y : currentparty : currentrep : syndicaterep
-%Harborough : c : y : currentparty : currentrep : syndicaterep
-%Harlow : c : y : currentparty : currentrep : syndicaterep
-%Harrogate and Knaresborough : c : y : currentparty : currentrep : syndicaterep
-%Harrow East : c : y : currentparty : currentrep : syndicaterep
-%Harrow West : c : y : currentparty : currentrep : syndicaterep
-%Hartlepool : c : y : currentparty : currentrep : syndicaterep
-%Harwich and North Essex : c : y : currentparty : currentrep : syndicaterep
-%Hastings and Rye : c : y : currentparty : currentrep : syndicaterep
-%Havant : c : y : currentparty : currentrep : syndicaterep
-%Hayes and Harlington : c : y : currentparty : currentrep : syndicaterep
-%Hazel Grove : c : y : currentparty : currentrep : syndicaterep
-%Hemel Hempstead : c : y : currentparty : currentrep : syndicaterep
-%Hemsworth : c : y : currentparty : currentrep : syndicaterep
-%Hendon : c : y : currentparty : currentrep : syndicaterep
-%Henley : c : y : currentparty : currentrep : syndicaterep
-%Hereford and South Herefordshire : c : y : currentparty : currentrep : syndicaterep
-%Hertford and Stortford : c : y : currentparty : currentrep : syndicaterep
-%Hertsmere : c : y : currentparty : currentrep : syndicaterep
-%Hexham : c : y : currentparty : currentrep : syndicaterep
-%Heywood and Middleton : c : y : currentparty : currentrep : syndicaterep
-%High Peak : c : y : currentparty : currentrep : syndicaterep
-%Hitchin and Harpenden : c : y : currentparty : currentrep : syndicaterep
-%Holborn and St Pancras : c : y : currentparty : currentrep : syndicaterep
-%Hornchurch and Upminster : c : y : currentparty : currentrep : syndicaterep
-%Hornsey and Wood Green : c : y : currentparty : currentrep : syndicaterep
-%Horsham : c : y : currentparty : currentrep : syndicaterep
-%Houghton and Sunderland South : c : y : currentparty : currentrep : syndicaterep
-%Hove : c : y : currentparty : currentrep : syndicaterep
-%Huddersfield : c : y : currentparty : currentrep : syndicaterep
-%Huntingdon : c : y : currentparty : currentrep : syndicaterep
-%Hyndburn : c : y : currentparty : currentrep : syndicaterep
-%Ilford North : c : y : currentparty : currentrep : syndicaterep
-%Ilford South: c : y : currentparty : currentrep : syndicaterep
-%Ipswich : c : y : currentparty : currentrep : syndicaterep
-%Isle of Wight : c : y : currentparty : currentrep : syndicaterep
-%Islington North : c : y : currentparty : currentrep : syndicaterep
-%Islington South and Finsbury : c : y : currentparty : currentrep : syndicaterep
-%Jarrow : c : y : currentparty : currentrep : syndicaterep
-%Keighley : c : y : currentparty : currentrep : syndicaterep
-%Kenilworth and Southam	 : c : y : currentparty : currentrep : syndicaterep
-%Kensington : c : y : currentparty : currentrep : syndicaterep
-%Kettering : c : y : currentparty : currentrep : syndicaterep
-%Kingston and Surbiton : c : y : currentparty : currentrep : syndicaterep
-%Kingston upon Hull East : c : y : currentparty : currentrep : syndicaterep
-%Kingston upon Hull North : c : y : currentparty : currentrep : syndicaterep
-%Kingston upon Hull West and Hessle : c : y : currentparty : currentrep : syndicaterep
-%Kingswood : c : y : currentparty : currentrep : syndicaterep
-%Knowsley : c : y : currentparty : currentrep : syndicaterep
-%Lancaster and Fleetwood : c : y : currentparty : currentrep : syndicaterep
-%Leeds Central : c : y : currentparty : currentrep : syndicaterep
-%Leeds East : c : y : currentparty : currentrep : syndicaterep
-%Leeds North East : c : y : currentparty : currentrep : syndicaterep
-%Leeds North West : c : y : currentparty : currentrep : syndicaterep
-%Leeds West : c : y : currentparty : currentrep : syndicaterep
-%Leicester East : c : y : currentparty : currentrep : syndicaterep
-%Leicester South : c : y : currentparty : currentrep : syndicaterep
-%Leicester West : c : y : currentparty : currentrep : syndicaterep
-%Leigh : c : y : currentparty : currentrep : syndicaterep
-%Lewes : c : y : currentparty : currentrep : syndicaterep
-%Lewisham, Deptford : c : y : currentparty : currentrep : syndicaterep
-%Lewisham East : c : y : currentparty : currentrep : syndicaterep
-%Lewisham West and Penge : c : y : currentparty : currentrep : syndicaterep
-%Leyton and Wanstead : c : y : currentparty : currentrep : syndicaterep
-%Lichfield : c : y : currentparty : currentrep : syndicaterep
-%Lincoln : c : y : currentparty : currentrep : syndicaterep
-%Liverpool, Riverside : c : y : currentparty : currentrep : syndicaterep
-%Liverpool, Walton : c : y : currentparty : currentrep : syndicaterep
-%Liverpool, Wavertree : c : y : currentparty : currentrep : syndicaterep
-%Liverpool, West Derby : c : y : currentparty : currentrep : syndicaterep
-%Loughborough : c : y : currentparty : currentrep : syndicaterep
-%Louth and Horncastle : c : y : currentparty : currentrep : syndicaterep
-%Ludlow : c : y : currentparty : currentrep : syndicaterep
-%Luton North : c : y : currentparty : currentrep : syndicaterep
-%Luton South : c : y : currentparty : currentrep : syndicaterep
-%Macclesfield : c : y : currentparty : currentrep : syndicaterep
-%Maidenhead : c : y : currentparty : currentrep : syndicaterep
-%Maidstone and The Weald : c : y : currentparty : currentrep : syndicaterep
-%Makerfield : c : y : currentparty : currentrep : syndicaterep
-%Maldon : c : y : currentparty : currentrep : syndicaterep
-%Manchester Central : c : y : currentparty : currentrep : syndicaterep
-%Manchester, Gorton : c : y : currentparty : currentrep : syndicaterep
-%Manchester, Withington : c : y : currentparty : currentrep : syndicaterep
-%Mansfield : c : y : currentparty : currentrep : syndicaterep
-%Meon Valley : c : y : currentparty : currentrep : syndicaterep
-%Meriden : c : y : currentparty : currentrep : syndicaterep
-%Mid Bedfordshire : c : y : currentparty : currentrep : syndicaterep
-%Mid Derbyshire : c : y : currentparty : currentrep : syndicaterep
-%Mid Dorset and North Poole : c : y : currentparty : currentrep : syndicaterep
-%Mid Norfolk : c : y : currentparty : currentrep : syndicaterep
-%Mid Sussex : c : y : currentparty : currentrep : syndicaterep
-%Mid Worcestershire : c : y : currentparty : currentrep : syndicaterep
-%Middlesbrough : c : y : currentparty : currentrep : syndicaterep
-%Middlesbrough South and East Cleveland : c : y : currentparty : currentrep : syndicaterep
-%Milton Keynes North : c : y : currentparty : currentrep : syndicaterep
-%Milton Keynes South : c : y : currentparty : currentrep : syndicaterep
-%Mitcham and Morden : c : y : currentparty : currentrep : syndicaterep
-%Mole Valley : c : y : currentparty : currentrep : syndicaterep
-%Morecambe and Lunesdale : c : y : currentparty : currentrep : syndicaterep
-%Morley and Outwood : c : y : currentparty : currentrep : syndicaterep
-%New Forest East : c : y : currentparty : currentrep : syndicaterep
-%New Forest West : c : y : currentparty : currentrep : syndicaterep
-%Newark : c : y : currentparty : currentrep : syndicaterep
-%Newbury : c : y : currentparty : currentrep : syndicaterep
-%Newcastle-under-Lyme : c : y : currentparty : currentrep : syndicaterep
-%Newcastle upon Tyne Central : c : y : currentparty : currentrep : syndicaterep
-%Newcastle upon Tyne East: c : y : currentparty : currentrep : syndicaterep
-%Newcastle upon Tyne North: c : y : currentparty : currentrep : syndicaterep
-%Newton Abbot: c : y : currentparty : currentrep : syndicaterep
-%Normanton, Pontefract and Castleford : c : y : currentparty : currentrep : syndicaterep
-%North Cornwall : c : y : currentparty : currentrep : syndicaterep
-%North Devon : c : y : currentparty : currentrep : syndicaterep
-%North Dorset : c : y : currentparty : currentrep : syndicaterep
-%North Durham : c : y : currentparty : currentrep : syndicaterep
-%North East Bedfordshire : c : y : currentparty : currentrep : syndicaterep
-%North East Cambridgeshire : c : y : currentparty : currentrep : syndicaterep
-%North East Derbyshire : c : y : currentparty : currentrep : syndicaterep
-%North East Hampshire : c : y : currentparty : currentrep : syndicaterep
-%North East Hertfordshire: c : y : currentparty : currentrep : syndicaterep
-%North East Somerset : c : y : currentparty : currentrep : syndicaterep
-%North Herefordshire : c : y : currentparty : currentrep : syndicaterep
-%North Norfolk : c : y : currentparty : currentrep : syndicaterep
-%North Shropshire: c : y : currentparty : currentrep : syndicaterep
-%North Somerset : c : y : currentparty : currentrep : syndicaterep
-%North Swindon : c : y : currentparty : currentrep : syndicaterep
-%North Thanet : c : y : currentparty : currentrep : syndicaterep
-%North Tyneside : c : y : currentparty : currentrep : syndicaterep
-%North Warwickshire: c : y : currentparty : currentrep : syndicaterep
-%North West Cambridgeshire: c : y : currentparty : currentrep : syndicaterep
-%North West Durham : c : y : currentparty : currentrep : syndicaterep
-%North West Hampshire: c : y : currentparty : currentrep : syndicaterep
-%North West Leicestershire: c : y : currentparty : currentrep : syndicaterep
-%North West Norfolk : c : y : currentparty : currentrep : syndicaterep
-%North Wiltshire: c : y : currentparty : currentrep : syndicaterep
-%Northampton North : c : y : currentparty : currentrep : syndicaterep
-%Northampton South : c : y : currentparty : currentrep : syndicaterep
-%Norwich North : c : y : currentparty : currentrep : syndicaterep
-%Norwich South : c : y : currentparty : currentrep : syndicaterep
-%Nottingham East : c : y : currentparty : currentrep : syndicaterep
-%Nottingham North : c : y : currentparty : currentrep : syndicaterep
-%Nottingham South : c : y : currentparty : currentrep : syndicaterep
-%Nuneaton : c : y : currentparty : currentrep : syndicaterep
-%Old Bexley and Sidcup : c : y : currentparty : currentrep : syndicaterep
-%Oldham East and Saddleworth : c : y : currentparty : currentrep : syndicaterep
-%Oldham West and Royton : c : y : currentparty : currentrep : syndicaterep
-%Orpington : c : y : currentparty : currentrep : syndicaterep
-%Oxford East : c : y : currentparty : currentrep : syndicaterep
-%Oxford West and Abingdon : c : y : currentparty : currentrep : syndicaterep
-%Pendle: c : y : currentparty : currentrep : syndicaterep
-%Penistone and Stocksbridge : c : y : currentparty : currentrep : syndicaterep
-%Penrith and The Border : c : y : currentparty : currentrep : syndicaterep
-%Peterborough : c : y : currentparty : currentrep : syndicaterep
-%Plymouth, Moor View: c : y : currentparty : currentrep : syndicaterep
-%Plymouth, Sutton and Devonport : c : y : currentparty : currentrep : syndicaterep
-%Poole : c : y : currentparty : currentrep : syndicaterep
-%Poplar and Limehouse : c : y : currentparty : currentrep : syndicaterep
-%Portsmouth North : c : y : currentparty : currentrep : syndicaterep
-%Portsmouth South : c : y : currentparty : currentrep : syndicaterep
-%Preston: c : y : currentparty : currentrep : syndicaterep
-%Pudsey : c : y : currentparty : currentrep : syndicaterep
-%Putney : c : y : currentparty : currentrep : syndicaterep
-%Rayleigh and Wickford : c : y : currentparty : currentrep : syndicaterep
-%Reading East: c : y : currentparty : currentrep : syndicaterep
-%Reading West: c : y : currentparty : currentrep : syndicaterep
-%Redcar : c : y : currentparty : currentrep : syndicaterep
-%Redditch : c : y : currentparty : currentrep : syndicaterep
-%Reigate: c : y : currentparty : currentrep : syndicaterep
-%Ribble Valley : c : y : currentparty : currentrep : syndicaterep
-%Richmond (Yorks) : c : y : currentparty : currentrep : syndicaterep
-%Richmond Park : c : y : currentparty : currentrep : syndicaterep
-%Rochdale : c : y : currentparty : currentrep : syndicaterep
-%Rochester and Strood : c : y : currentparty : currentrep : syndicaterep
-%Rochford and Southend East : c : y : currentparty : currentrep : syndicaterep
-%Romford : c : y : currentparty : currentrep : syndicaterep
-%Romsey and Southampton North : c : y : currentparty : currentrep : syndicaterep
-%Rossendale and Darwen : c : y : currentparty : currentrep : syndicaterep
-%Rother Valley : c : y : currentparty : currentrep : syndicaterep
-%Rotherham : c : y : currentparty : currentrep : syndicaterep
-%Rugby : c : y : currentparty : currentrep : syndicaterep
-%Ruislip, Northwood and Pinner : c : y : currentparty : currentrep : syndicaterep
-%Runnymede and Weybridge : c : y : currentparty : currentrep : syndicaterep
-%Rushcliffe : c : y : currentparty : currentrep : syndicaterep
-%Rutland and Melton: c : y : currentparty : currentrep : syndicaterep
-%Saffron Walden : c : y : currentparty : currentrep : syndicaterep
-%Salford and Eccles : c : y : currentparty : currentrep : syndicaterep
-%Salisbury : c : y : currentparty : currentrep : syndicaterep
-%Scarborough and Whitby : c : y : currentparty : currentrep : syndicaterep
-%Scunthorpe : c : y : currentparty : currentrep : syndicaterep
-%Sedgefield : c : y : currentparty : currentrep : syndicaterep
-%Sefton Central : c : y : currentparty : currentrep : syndicaterep
-%Selby and Ainsty : c : y : currentparty : currentrep : syndicaterep
-%Sevenoaks : c : y : currentparty : currentrep : syndicaterep
-%Sheffield, Brightside and Hillsborough: c : y : currentparty : currentrep : syndicaterep
-%Sheffield Central: c : y : currentparty : currentrep : syndicaterep
-%Sheffield, Hallam : c : y : currentparty : currentrep : syndicaterep
-%Sheffield, Heeley : c : y : currentparty : currentrep : syndicaterep
-%Sheffield South East: c : y : currentparty : currentrep : syndicaterep
-%Sherwood : c : y : currentparty : currentrep : syndicaterep
-%Shipley : c : y : currentparty : currentrep : syndicaterep
-%Shrewsbury and Atcham : c : y : currentparty : currentrep : syndicaterep
-%Sittingbourne and Sheppey : c : y : currentparty : currentrep : syndicaterep
-%Skipton and Ripon : c : y : currentparty : currentrep : syndicaterep
-%Sleaford and North Hykeham: c : y : currentparty : currentrep : syndicaterep
-%Slough : c : y : currentparty : currentrep : syndicaterep
-%Solihull : c : y : currentparty : currentrep : syndicaterep
-%Somerton and Frome : c : y : currentparty : currentrep : syndicaterep
-%South Basildon and East Thurrock: c : y : currentparty : currentrep : syndicaterep
-%South Cambridgeshire : c : y : currentparty : currentrep : syndicaterep
-%South Derbyshire : c : y : currentparty : currentrep : syndicaterep
-%South Dorset : c : y : currentparty : currentrep : syndicaterep
-%South East Cambridgeshire : c : y : currentparty : currentrep : syndicaterep
-%South East Cornwall : c : y : currentparty : currentrep : syndicaterep
-%South Holland and The Deepings : c : y : currentparty : currentrep : syndicaterep
-%South Leicestershire : c : y : currentparty : currentrep : syndicaterep
-%South Norfolk : c : y : currentparty : currentrep : syndicaterep
-%South Northamptonshire : c : y : currentparty : currentrep : syndicaterep
-%South Ribble : c : y : currentparty : currentrep : syndicaterep
-%South Shields : c : y : currentparty : currentrep : syndicaterep
-%South Staffordshire : c : y : currentparty : currentrep : syndicaterep
-%South Suffolk: c : y : currentparty : currentrep : syndicaterep
-%South Swindon: c : y : currentparty : currentrep : syndicaterep
-%South Thanet : c : y : currentparty : currentrep : syndicaterep
-%South West Bedfordshire : c : y : currentparty : currentrep : syndicaterep
-%South West Devon : c : y : currentparty : currentrep : syndicaterep
-%South West Hertfordshire : c : y : currentparty : currentrep : syndicaterep
-%South West Norfolk : c : y : currentparty : currentrep : syndicaterep
-%South West Surrey : c : y : currentparty : currentrep : syndicaterep
-%South West Wiltshire : c : y : currentparty : currentrep : syndicaterep
-%Southampton, Itchen : c : y : currentparty : currentrep : syndicaterep
-%Southampton, Test : c : y : currentparty : currentrep : syndicaterep
-%Southend West : c : y : currentparty : currentrep : syndicaterep
-%Southport : c : y : currentparty : currentrep : syndicaterep
-%Spelthorne : c : y : currentparty : currentrep : syndicaterep
-%St Albans : c : y : currentparty : currentrep : syndicaterep
-%St Austell and Newquay : c : y : currentparty : currentrep : syndicaterep
-%St Helens North : c : y : currentparty : currentrep : syndicaterep
-%St Helens South and Whiston : c : y : currentparty : currentrep : syndicaterep
-%St Ives : c : y : currentparty : currentrep : syndicaterep
-%Stafford : c : y : currentparty : currentrep : syndicaterep
-%Staffordshire Moorlands : c : y : currentparty : currentrep : syndicaterep
-%Stalybridge and Hyde : c : y : currentparty : currentrep : syndicaterep
-%Stevenage : c : y : currentparty : currentrep : syndicaterep
-%Stockport : c : y : currentparty : currentrep : syndicaterep
-%Stockton North : c : y : currentparty : currentrep : syndicaterep
-%Stockton South : c : y : currentparty : currentrep : syndicaterep
-%Stoke-on-Trent Central : c : y : currentparty : currentrep : syndicaterep
-%Stoke-on-Trent North : c : y : currentparty : currentrep : syndicaterep
-%Stoke-on-Trent South: c : y : currentparty : currentrep : syndicaterep
-%Stone : c : y : currentparty : currentrep : syndicaterep
-%Stourbridge : c : y : currentparty : currentrep : syndicaterep
-%Stratford-on-Avon : c : y : currentparty : currentrep : syndicaterep
-%Streatham : c : y : currentparty : currentrep : syndicaterep
-%Stretford and Urmston: c : y : currentparty : currentrep : syndicaterep
-%Stroud: c : y : currentparty : currentrep : syndicaterep
-%Suffolk Coastal : c : y : currentparty : currentrep : syndicaterep
-%Sunderland Central : c : y : currentparty : currentrep : syndicaterep
-%Surrey Heath : c : y : currentparty : currentrep : syndicaterep
-%Sutton and Cheam : c : y : currentparty : currentrep : syndicaterep
-%Sutton Coldfield : c : y : currentparty : currentrep : syndicaterep
-%Tamworth : c : y : currentparty : currentrep : syndicaterep
-%Tatton : c : y : currentparty : currentrep : syndicaterep
-%Taunton Deane: c : y : currentparty : currentrep : syndicaterep
-%Telford : c : y : currentparty : currentrep : syndicaterep
-%Tewkesbury: c : y : currentparty : currentrep : syndicaterep
-%The Cotswolds : c : y : currentparty : currentrep : syndicaterep
-%The Wrekin : c : y : currentparty : currentrep : syndicaterep
-%Thirsk and Malton : c : y : currentparty : currentrep : syndicaterep
-%Thornbury and Yate : c : y : currentparty : currentrep : syndicaterep
-%Thurrock : c : y : currentparty : currentrep : syndicaterep
-%Tiverton and Honiton : c : y : currentparty : currentrep : syndicaterep
-%Tonbridge and Malling: c : y : currentparty : currentrep : syndicaterep
-%Tooting : c : y : currentparty : currentrep : syndicaterep
-%Torbay : c : y : currentparty : currentrep : syndicaterep
-%Torridge and West Devon : c : y : currentparty : currentrep : syndicaterep
-%Totnes : c : y : currentparty : currentrep : syndicaterep
-%Tottenham	 : c : y : currentparty : currentrep : syndicaterep
-%Truro and Falmouth : c : y : currentparty : currentrep : syndicaterep
-%Tunbridge Wells : c : y : currentparty : currentrep : syndicaterep
-%Twickenham : c : y : currentparty : currentrep : syndicaterep
-%Tynemouth : c : y : currentparty : currentrep : syndicaterep
-%Uxbridge and South Ruislip : c : y : currentparty : currentrep : syndicaterep
-%Vauxhall : c : y : currentparty : currentrep : syndicaterep
-%Wakefield : c : y : currentparty : currentrep : syndicaterep
-%Wallasey : c : y : currentparty : currentrep : syndicaterep
-%Walsall North : c : y : currentparty : currentrep : syndicaterep
-%Walsall South	 : c : y : currentparty : currentrep : syndicaterep
-%Walthamstow	 : c : y : currentparty : currentrep : syndicaterep
-%Wansbeck : c : y : currentparty : currentrep : syndicaterep
-%Wantage	 : c : y : currentparty : currentrep : syndicaterep
-%Warley	 : c : y : currentparty : currentrep : syndicaterep
-%Warrington North : c : y : currentparty : currentrep : syndicaterep
-%Warrington South : c : y : currentparty : currentrep : syndicaterep
-%Warwick and Leamington : c : y : currentparty : currentrep : syndicaterep
-%Washington and Sunderland West : c : y : currentparty : currentrep : syndicaterep
-%Watford : c : y : currentparty : currentrep : syndicaterep
-%Waveney	 : c : y : currentparty : currentrep : syndicaterep
-%Wealden : c : y : currentparty : currentrep : syndicaterep
-%Weaver Vale : c : y : currentparty : currentrep : syndicaterep
-%Wellingborough : c : y : currentparty : currentrep : syndicaterep
-%Wells : c : y : currentparty : currentrep : syndicaterep
-%Welwyn Hatfield : c : y : currentparty : currentrep : syndicaterep
-%Wentworth and Dearne : c : y : currentparty : currentrep : syndicaterep
-%West Bromwich East	 : c : y : currentparty : currentrep : syndicaterep
-%West Bromwich West	 : c : y : currentparty : currentrep : syndicaterep
-%West Dorset : c : y : currentparty : currentrep : syndicaterep
-%West Ham	 : c : y : currentparty : currentrep : syndicaterep
-%West Lancashire : c : y : currentparty : currentrep : syndicaterep
-%West Suffolk : c : y : currentparty : currentrep : syndicaterep
-%West Worcestershire : c : y : currentparty : currentrep : syndicaterep
-%Westminster North : c : y : currentparty : currentrep : syndicaterep
-%Westmorland and Lonsdale : c : y : currentparty : currentrep : syndicaterep
-%Weston-Super-Mare	 : c : y : currentparty : currentrep : syndicaterep
-%Wigan	 : c : y : currentparty : currentrep : syndicaterep
-%Wimbledon : c : y : currentparty : currentrep : syndicaterep
-%Winchester : c : y : currentparty : currentrep : syndicaterep
-%Windsor : c : y : currentparty : currentrep : syndicaterep
-%Wirral South	 : c : y : currentparty : currentrep : syndicaterep
-%Wirral West : c : y : currentparty : currentrep : syndicaterep
-%Witham : c : y : currentparty : currentrep : syndicaterep
-%Witney : c : y : currentparty : currentrep : syndicaterep
-%Woking : c : y : currentparty : currentrep : syndicaterep
-%Wokingham : c : y : currentparty : currentrep : syndicaterep
-%Wolverhampton North East : c : y : currentparty : currentrep : syndicaterep
-%Wolverhampton South East : c : y : currentparty : currentrep : syndicaterep
-%Wolverhampton South Wes : c : y : currentparty : currentrep : syndicaterep
-%Worcester : c : y : currentparty : currentrep : syndicaterep
-%Workington : c : y : currentparty : currentrep : syndicaterep
-%Worsley and Eccles South : c : y : currentparty : currentrep : syndicaterep
-%Worthing West	 : c : y : currentparty : currentrep : syndicaterep
-%Wycombe : c : y : currentparty : currentrep : syndicaterep
-%Wyre and Preston North : c : y : currentparty : currentrep : syndicaterep
-%Wyre Forest : c : y : currentparty : currentrep : syndicaterep
-%Wythenshawe and Sale East : c : y : currentparty : currentrep : syndicaterep
-%Yeovil : c : y : currentparty : currentrep : syndicaterep
-%York Central	 : c : y : currentparty : currentrep : syndicaterep
-%York Outer : c : y : currentparty : currentrep : syndicaterep
-%Aberdeen North	 : c : y : currentparty : currentrep : syndicaterep
-%Aberdeen South : c : y : currentparty : currentrep : syndicaterep
-%Airdrie and Shotts : c : y : currentparty : currentrep : syndicaterep
-%Angus : c : y : currentparty : currentrep : syndicaterep
-%Argyll and Bute : c : y : currentparty : currentrep : syndicaterep
-%Ayr, Carrick and Cumnock : c : y : currentparty : currentrep : syndicaterep
-%Banff and Buchan : c : y : currentparty : currentrep : syndicaterep
-%Berwickshire, Roxburgh and Selkirk : c : y : currentparty : currentrep : syndicaterep
-%Caithness, Sutherland and Easter Ross : c : y : currentparty : currentrep : syndicaterep
-%Central Ayrshire	 : c : y : currentparty : currentrep : syndicaterep
-%Coatbridge, Chryston and Bellshill : c : y : currentparty : currentrep : syndicaterep
-%Cumbernauld, Kilsyth and Kirkintilloch East : c : y : currentparty : currentrep : syndicaterep
-%Dumfries and Galloway : c : y : currentparty : currentrep : syndicaterep
-%Dumfriesshire, Clydesdale and Tweeddale	 : c : y : currentparty : currentrep : syndicaterep
-%Dundee East	 : c : y : currentparty : currentrep : syndicaterep
-%Dundee West : c : y : currentparty : currentrep : syndicaterep
-%Dunfermline and West Fife	 : c : y : currentparty : currentrep : syndicaterep
-%East Dunbartonshire : c : y : currentparty : currentrep : syndicaterep
-%East Kilbride, Strathaven and Lesmahagow : c : y : currentparty : currentrep : syndicaterep
-%East Lothian	 : c : y : currentparty : currentrep : syndicaterep
-%East Renfrewshire : c : y : currentparty : currentrep : syndicaterep
-%Edinburgh East : c : y : currentparty : currentrep : syndicaterep
-%Edinburgh North and Leith : c : y : currentparty : currentrep : syndicaterep
-%Edinburgh South	 : c : y : currentparty : currentrep : syndicaterep
-%Edinburgh South West	 : c : y : currentparty : currentrep : syndicaterep
-%Edinburgh West	 : c : y : currentparty : currentrep : syndicaterep
-%Falkirk : c : y : currentparty : currentrep : syndicaterep
-%Glasgow Central	 : c : y : currentparty : currentrep : syndicaterep
-%Glasgow East	 : c : y : currentparty : currentrep : syndicaterep
-%Glasgow North	 : c : y : currentparty : currentrep : syndicaterep
-%Glasgow North East : c : y : currentparty : currentrep : syndicaterep
-%Glasgow North West : c : y : currentparty : currentrep : syndicaterep
-%Glasgow South : c : y : currentparty : currentrep : syndicaterep
-%Glasgow South West : c : y : currentparty : currentrep : syndicaterep
-%Glenrothes : c : y : currentparty : currentrep : syndicaterep
-%Gordon	 : c : y : currentparty : currentrep : syndicaterep
-%Inverclyde : c : y : currentparty : currentrep : syndicaterep
-%Inverness, Nairn, Badenoch and Strathspey : c : y : currentparty : currentrep : syndicaterep
-%Kilmarnock and Loudoun : c : y : currentparty : currentrep : syndicaterep
-%Kirkcaldy and Cowdenbeath : c : y : currentparty : currentrep : syndicaterep
-%Lanark and Hamilton East : c : y : currentparty : currentrep : syndicaterep
-%Linlithgow and East Falkirk : c : y : currentparty : currentrep : syndicaterep
-%Livingston : c : y : currentparty : currentrep : syndicaterep
-%Midlothian : c : y : currentparty : currentrep : syndicaterep
-%Moray : c : y : currentparty : currentrep : syndicaterep
-%Motherwell and Wishaw : c : y : currentparty : currentrep : syndicaterep
-%Na h-Eileanan an Iar	 : c : y : currentparty : currentrep : syndicaterep
-%North Ayrshire and Arran : c : y : currentparty : currentrep : syndicaterep
-%North East Fife	 : c : y : currentparty : currentrep : syndicaterep
-%Ochil and South Perthshire : c : y : currentparty : currentrep : syndicaterep
-%Orkney and Shetland : c : y : currentparty : currentrep : syndicaterep
-%Paisley and Renfrewshire North : c : y : currentparty : currentrep : syndicaterep
-%Paisley and Renfrewshire South : c : y : currentparty : currentrep : syndicaterep
-%Perth and North Perthshire : c : y : currentparty : currentrep : syndicaterep
-%Ross, Skye and Lochaber : c : y : currentparty : currentrep : syndicaterep
-%Rutherglen and Hamilton West : c : y : currentparty : currentrep : syndicaterep
-%Stirling : c : y : currentparty : currentrep : syndicaterep
-%West Aberdeenshire and Kincardine	 : c : y : currentparty : currentrep : syndicaterep
-%West Dunbartonshire  : c : y : currentparty : currentrep : syndicaterep
-%Aberavon : c : y : currentparty : currentrep : syndicaterep
-%Aberconwy : c : y : currentparty : currentrep : syndicaterep
-%Alyn and Deeside : c : y : currentparty : currentrep : syndicaterep
-%Arfon : c : y : currentparty : currentrep : syndicaterep
-%Blaenau Gwent : c : y : currentparty : currentrep : syndicaterep
-%Brecon and Radnorshire : c : y : currentparty : currentrep : syndicaterep
-%Bridgend : c : y : currentparty : currentrep : syndicaterep
-%Caerphilly : c : y : currentparty : currentrep : syndicaterep
-%Cardiff Central : c : y : currentparty : currentrep : syndicaterep
-%Cardiff North : c : y : currentparty : currentrep : syndicaterep
-%Cardiff South and Penarth : c : y : currentparty : currentrep : syndicaterep
-%Cardiff West : c : y : currentparty : currentrep : syndicaterep
-%Carmarthen East and Dinefwr : c : y : currentparty : currentrep : syndicaterep
-%Carmarthen West and South Pembrokeshire : c : y : currentparty : currentrep : syndicaterep
-%Ceredigion : c : y : currentparty : currentrep : syndicaterep
-%Clwyd South : c : y : currentparty : currentrep : syndicaterep
-%Clwyd West	 : c : y : currentparty : currentrep : syndicaterep
-%Cynon Valley : c : y : currentparty : currentrep : syndicaterep
-%Delyn : c : y : currentparty : currentrep : syndicaterep
-%Dwyfor Meirionnydd	 : c : y : currentparty : currentrep : syndicaterep
-%Gower : c : y : currentparty : currentrep : syndicaterep
-%Islwyn : c : y : currentparty : currentrep : syndicaterep
-%Llanelli	 : c : y : currentparty : currentrep : syndicaterep
-%Merthyr Tydfil and Rhymney	 : c : y : currentparty : currentrep : syndicaterep
-%Monmouth : c : y : currentparty : currentrep : syndicaterep
-%Montgomeryshire : c : y : currentparty : currentrep : syndicaterep
-%Neath	56,097 : c : y : currentparty : currentrep : syndicaterep
-%Newport East : c : y : currentparty : currentrep : syndicaterep
-%Newport West	 : c : y : currentparty : currentrep : syndicaterep
-%Ogmore	55,572 : c : y : currentparty : currentrep : syndicaterep
-%Pontypridd	58,940 : c : y : currentparty : currentrep : syndicaterep
-%Preseli Pembrokeshire	 : c : y : currentparty : currentrep : syndicaterep
-%Rhondda	 : c : y : currentparty : currentrep : syndicaterep
-%Swansea East	 : c : y : currentparty : currentrep : syndicaterep
-%Swansea West : c : y : currentparty : currentrep : syndicaterep
-%Torfaen : c : y : currentparty : currentrep : syndicaterep
-%Vale of Clwyd	 : c : y : currentparty : currentrep : syndicaterep
-%Vale of Glamorgan	 : c : y : currentparty : currentrep : syndicaterep
-%Wrexham	 : c : y : currentparty : currentrep : syndicaterep
-%Ynys Môn	 : c : y : currentparty : currentrep : syndicaterep
-%Belfast East	 : c : y : currentparty : currentrep : syndicaterep
-%Belfast North	 : c : y : currentparty : currentrep : syndicaterep
-%Belfast South	 : c : y : currentparty : currentrep : syndicaterep
-%Belfast West	 : c : y : currentparty : currentrep : syndicaterep
-%East Antrim	 : c : y : currentparty : currentrep : syndicaterep
-%East Londonderry	 : c : y : currentparty : currentrep : syndicaterep
-%Fermanagh and South Tyrone	 : c : y : currentparty : currentrep : syndicaterep
-%Foyle	 : c : y : currentparty : currentrep : syndicaterep
-%Lagan Valley	 : c : y : currentparty : currentrep : syndicaterep
-%Mid Ulster	 : c : y : currentparty : currentrep : syndicaterep
-%Newry and Armagh	 : c : y : currentparty : currentrep : syndicaterep
-%North Antrim	 : c : y : currentparty : currentrep : syndicaterep
-%North Down	 : c : y : currentparty : currentrep : syndicaterep
-%South Antrim	 : c : y : currentparty : currentrep : syndicaterep
-%South Down	 : c : y : currentparty : currentrep : syndicaterep
-%Strangford	 : c : y : currentparty : currentrep : syndicaterep
-%Upper Bann	 : c : y : currentparty : currentrep : syndicaterep
-%West Tyrone : c : y : currentparty : currentrep : syndicaterep
+%Aldershot : c : No : No Party : Dissolved : syndicaterep
+%AldridgeBrownHills : c : No : No Party : Dissolved : syndicaterep
+%Altrincham and Sale West: c : No : No Party : Dissolved : syndicaterep
+%AmberValley: c : No : No Party : Dissolved : syndicaterep
+%Arundel and South Downs: c : No : No Party : Dissolved : syndicaterep
+%Ashfield: c : No : No Party : Dissolved : syndicaterep
+%Ashford: c : No : No Party : Dissolved : syndicaterep
+%Ashton-under-Lyne: c : No : No Party : Dissolved : syndicaterep
+%Aylesbury: c : No : No Party : Dissolved : syndicaterep
+%Banbury: c : No : No Party : Dissolved : syndicaterep
+%Barking : c : No : No Party : Dissolved : syndicaterep
+%Barnsley Central : c : No : No Party : Dissolved : syndicaterep
+%Barnsley East: c : No : No Party : Dissolved : syndicaterep
+%Barrow and Furness: c : No : No Party : Dissolved : syndicaterep
+%Basildon and Billericay: c : No : No Party : Dissolved : syndicaterep
+%Basingstoke: c : No : No Party : Dissolved : syndicaterep
+%Bassetlaw: c : No : No Party : Dissolved : syndicaterep
+%Bath: c : No : No Party : Dissolved : syndicaterep
+%Batley and Spen: c : No : No Party : Dissolved : syndicaterep
+%Battersea: c : No : No Party : Dissolved : syndicaterep
+%Beaconsfield : c : No : No Party : Dissolved : syndicaterep
+%Beckenham : c : No : No Party : Dissolved : syndicaterep
+%Bedford: c : No : No Party : Dissolved : syndicaterep
+%Bermondsey and Old Southwark: c : No : No Party : Dissolved : syndicaterep
+%Berwick-upon-Tweed: c : No : No Party : Dissolved : syndicaterep
+%Bethnal Green and Bow: c : No : No Party : Dissolved : syndicaterep
+%Beverley and Holderness: c : No : No Party : Dissolved : syndicaterep
+%Bexhill and Battle: c : No : No Party : Dissolved : syndicaterep
+%Bexleyheath and Crayford: c : No : No Party : Dissolved : syndicaterep
+%Birkenhead: c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Edgbaston : c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Erdington : c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Hall Green: c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Hodge Hill : c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Ladywood: c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Northfield c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Perry Barr: c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Selly Oak: c : No : No Party : Dissolved : syndicaterep
+%Birmingham, Yardley: c : No : No Party : Dissolved : syndicaterep
+%Bishop Auckland: c : No : No Party : Dissolved : syndicaterep
+%Blackburn : c : No : No Party : Dissolved : syndicaterep
+%Blackley and Broughton : c : No : No Party : Dissolved : syndicaterep
+%Blackpool North and Cleveleys: c : No : No Party : Dissolved : syndicaterep
+%Blackpool South: c : No : No Party : Dissolved : syndicaterep
+%Blaydon: c : No : No Party : Dissolved : syndicaterep
+%Blyth Valley: c : No : No Party : Dissolved : syndicaterep
+%Bognor Regis and Littlehampton: c : No : No Party : Dissolved : syndicaterep
+%Bolsover: c : No : No Party : Dissolved : syndicaterep
+%Bolton North East: c : No : No Party : Dissolved : syndicaterep
+%Bolton South East: c : No : No Party : Dissolved : syndicaterep
+%Bolton West : c : No : No Party : Dissolved : syndicaterep
+%Bootle : c : No : No Party : Dissolved : syndicaterep
+%Boston and Skegness: c : No : No Party : Dissolved : syndicaterep
+%Bosworth: c : No : No Party : Dissolved : syndicaterep
+%Bournemouth East: c : No : No Party : Dissolved : syndicaterep
+%Bournemouth West: c : No : No Party : Dissolved : syndicaterep
+%Bracknell: c : No : No Party : Dissolved : syndicaterep
+%Bradford East: c : No : No Party : Dissolved : syndicaterep
+%Bradford South: c : No : No Party : Dissolved : syndicaterep
+%Bradford West: c : No : No Party : Dissolved : syndicaterep
+%Braintree : c : No : No Party : Dissolved : syndicaterep
+%Brent Central : c : No : No Party : Dissolved : syndicaterep
+%Brent North : c : No : No Party : Dissolved : syndicaterep
+%Brentford and Isleworth : c : No : No Party : Dissolved : syndicaterep
+%Brentwood and Ongar : c : No : No Party : Dissolved : syndicaterep
+%Bridgwater and West Somerset : c : No : No Party : Dissolved : syndicaterep
+%Brigg and Goole : c : No : No Party : Dissolved : syndicaterep
+%Brighton, Kemptown : c : No : No Party : Dissolved : syndicaterep
+%Brighton, Pavilion : c : No : No Party : Dissolved : syndicaterep
+%Bristol East : c : No : No Party : Dissolved : syndicaterep
+%Bristol North West : c : No : No Party : Dissolved : syndicaterep
+%Bristol South : c : No : No Party : Dissolved : syndicaterep
+%Bristol West : c : No : No Party : Dissolved : syndicaterep
+%Broadland : c : No : No Party : Dissolved : syndicaterep
+%Bromley and Chislehurst : c : No : No Party : Dissolved : syndicaterep
+%Bromsgrove : c : No : No Party : Dissolved : syndicaterep
+%Broxbourne : c : No : No Party : Dissolved : syndicaterep
+%Broxtowe : c : No : No Party : Dissolved : syndicaterep
+%Buckingham : c : No : No Party : Dissolved : syndicaterep
+%Burnley : c : No : No Party : Dissolved : syndicaterep
+%Burton : c : No : No Party : Dissolved : syndicaterep
+%Bury North : c : No : No Party : Dissolved : syndicaterep
+%Bury South : c : No : No Party : Dissolved : syndicaterep
+%Bury St Edmunds : c : No : No Party : Dissolved : syndicaterep
+%Calder Valley : c : No : No Party : Dissolved : syndicaterep
+%Camberwell and Peckham : c : No : No Party : Dissolved : syndicaterep
+%Camborne and Redruth : c : No : No Party : Dissolved : syndicaterep
+%Cambridge : c : No : No Party : Dissolved : syndicaterep
+%Cannock Chase : c : No : No Party : Dissolved : syndicaterep
+%Canterbury : c : No : No Party : Dissolved : syndicaterep
+%Carlisle : c : No : No Party : Dissolved : syndicaterep
+%Carshalton and Wallington : c : No : No Party : Dissolved : syndicaterep
+%Castle Point : c : No : No Party : Dissolved : syndicaterep
+%Central Devon : c : No : No Party : Dissolved : syndicaterep
+%Central Suffolk and North Ipswich : c : No : No Party : Dissolved : syndicaterep
+%Charnwood : c : No : No Party : Dissolved : syndicaterep
+%Chatham and Aylesford : c : No : No Party : Dissolved : syndicaterep
+%Cheadle : c : No : No Party : Dissolved : syndicaterep
+%Chelmsford : c : No : No Party : Dissolved : syndicaterep
+%Chelsea and Fulham : c : No : No Party : Dissolved : syndicaterep
+%Cheltenham : c : No : No Party : Dissolved : syndicaterep
+%Chesham and Amersham : c : No : No Party : Dissolved : syndicaterep
+%Chesterfield : c : No : No Party : Dissolved : syndicaterep
+%Chichester : c : No : No Party : Dissolved : syndicaterep
+%Chingford and Woodford Green : c : No : No Party : Dissolved : syndicaterep
+%Chippenham : c : No : No Party : Dissolved : syndicaterep
+%Chipping Barnet : c : No : No Party : Dissolved : syndicaterep
+%Chorley : c : No : No Party : Dissolved : syndicaterep
+%Christchurch: c : No : No Party : Dissolved : syndicaterep
+%Cities of London and Westminster : c : No : No Party : Dissolved : syndicaterep
+%City of Chester : c : No : No Party : Dissolved : syndicaterep
+%City of Durham : c : No : No Party : Dissolved : syndicaterep
+%Clacton : c : No : No Party : Dissolved : syndicaterep
+%Cleethorpes : c : No : No Party : Dissolved : syndicaterep
+%Colchester : c : No : No Party : Dissolved : syndicaterep
+%Colne Valley : c : No : No Party : Dissolved : syndicaterep
+%Congleton : c : No : No Party : Dissolved : syndicaterep
+%Copeland : c : No : No Party : Dissolved : syndicaterep
+%Corby : c : No : No Party : Dissolved : syndicaterep
+%Coventry North East : c : No : No Party : Dissolved : syndicaterep
+%Coventry North West : c : No : No Party : Dissolved : syndicaterep
+%Coventry South : c : No : No Party : Dissolved : syndicaterep
+%Crawley : c : No : No Party : Dissolved : syndicaterep
+%Crewe and Nantwich : c : No : No Party : Dissolved : syndicaterep
+%Croydon Central : c : No : No Party : Dissolved : syndicaterep
+%Croydon North : c : No : No Party : Dissolved : syndicaterep
+%Croydon South : c : No : No Party : Dissolved : syndicaterep
+%Dagenham and Rainham : c : No : No Party : Dissolved : syndicaterep
+%Darlington : c : No : No Party : Dissolved : syndicaterep
+%Dartford : c : No : No Party : Dissolved : syndicaterep
+%Daventry : c : No : No Party : Dissolved : syndicaterep
+%Denton and Reddish : c : No : No Party : Dissolved : syndicaterep
+%Derby North : c : No : No Party : Dissolved : syndicaterep
+%Derby South : c : No : No Party : Dissolved : syndicaterep
+%Derbyshire Dales : c : No : No Party : Dissolved : syndicaterep
+%Devizes : c : No : No Party : Dissolved : syndicaterep
+%Dewsbury : c : No : No Party : Dissolved : syndicaterep
+%Don Valley : c : No : No Party : Dissolved : syndicaterep
+%Doncaster Central : c : No : No Party : Dissolved : syndicaterep
+%Doncaster North : c : No : No Party : Dissolved : syndicaterep
+%Dover : c : No : No Party : Dissolved : syndicaterep
+%Dudley North : c : No : No Party : Dissolved : syndicaterep
+%Dudley South : c : No : No Party : Dissolved : syndicaterep
+%Dulwich and West Norwood : c : No : No Party : Dissolved : syndicaterep
+%Ealing Central and Acton : c : No : No Party : Dissolved : syndicaterep
+%Ealing North : c : No : No Party : Dissolved : syndicaterep
+%Ealing, Southall : c : No : No Party : Dissolved : syndicaterep
+%Easington : c : No : No Party : Dissolved : syndicaterep
+%East Devon : c : No : No Party : Dissolved : syndicaterep
+%East Ham : c : No : No Party : Dissolved : syndicaterep
+%East Hampshire : c : No : No Party : Dissolved : syndicaterep
+%East Surrey : c : No : No Party : Dissolved : syndicaterep
+%East Worthing and Shoreham : c : No : No Party : Dissolved : syndicaterep
+%East Yorkshire : c : No : No Party : Dissolved : syndicaterep
+%Eastbourne : c : No : No Party : Dissolved : syndicaterep
+%Eastleigh : c : No : No Party : Dissolved : syndicaterep
+%Eddisbury : c : No : No Party : Dissolved : syndicaterep
+%Edmonton : c : No : No Party : Dissolved : syndicaterep
+%Ellesmere Port and Neston : c : No : No Party : Dissolved : syndicaterep
+%Elmet and Rothwell: c : No : No Party : Dissolved : syndicaterep
+%Eltham : c : No : No Party : Dissolved : syndicaterep
+%Enfield North : c : No : No Party : Dissolved : syndicaterep
+%Enfield, Southgate : c : No : No Party : Dissolved : syndicaterep
+%Epping Forest : c : No : No Party : Dissolved : syndicaterep
+%Epsom and Ewell : c : No : No Party : Dissolved : syndicaterep
+%Erewash : c : No : No Party : Dissolved : syndicaterep
+%Erith and Thamesmead : c : No : No Party : Dissolved : syndicaterep
+%Esher and Walton : c : No : No Party : Dissolved : syndicaterep
+%Exeter : c : No : No Party : Dissolved : syndicaterep
+%Fareham : c : No : No Party : Dissolved : syndicaterep
+%Faversham and Mid Kent : c : No : No Party : Dissolved : syndicaterep
+%Feltham and Heston : c : No : No Party : Dissolved : syndicaterep
+%Filton and Bradley Stoke : c : No : No Party : Dissolved : syndicaterep
+%Finchley and Golders Green : c : No : No Party : Dissolved : syndicaterep
+%Folkestone and Hythe : c : No : No Party : Dissolved : syndicaterep
+%Forest of Dean : c : No : No Party : Dissolved : syndicaterep
+%Fylde : c : No : No Party : Dissolved : syndicaterep
+%Gainsborough : c : No : No Party : Dissolved : syndicaterep
+%Gateshead : c : No : No Party : Dissolved : syndicaterep
+%Gedling: c : No : No Party : Dissolved : syndicaterep
+%Gillingham and Rainham : c : No : No Party : Dissolved : syndicaterep
+%Gloucester : c : No : No Party : Dissolved : syndicaterep
+%Gosport : c : No : No Party : Dissolved : syndicaterep
+%Grantham and Stamford : c : No : No Party : Dissolved : syndicaterep
+%Gravesham : c : No : No Party : Dissolved : syndicaterep
+%Great Grimsby : c : No : No Party : Dissolved : syndicaterep
+%Great Yarmouth : c : No : No Party : Dissolved : syndicaterep
+%Greenwich and Woolwich : c : No : No Party : Dissolved : syndicaterep
+%Guildford : c : No : No Party : Dissolved : syndicaterep
+%Hackney North and Stoke Newington : c : No : No Party : Dissolved : syndicaterep
+%Hackney South and Shoreditch : c : No : No Party : Dissolved : syndicaterep
+%Halesowen and Rowley Regis : c : No : No Party : Dissolved : syndicaterep
+%Halifax : c : No : No Party : Dissolved : syndicaterep
+%Haltemprice and Howden : c : No : No Party : Dissolved : syndicaterep
+%Halton : c : No : No Party : Dissolved : syndicaterep
+%Hammersmith : c : No : No Party : Dissolved : syndicaterep
+%Hampstead and Kilburn : c : No : No Party : Dissolved : syndicaterep
+%Harborough : c : No : No Party : Dissolved : syndicaterep
+%Harlow : c : No : No Party : Dissolved : syndicaterep
+%Harrogate and Knaresborough : c : No : No Party : Dissolved : syndicaterep
+%Harrow East : c : No : No Party : Dissolved : syndicaterep
+%Harrow West : c : No : No Party : Dissolved : syndicaterep
+%Hartlepool : c : No : No Party : Dissolved : syndicaterep
+%Harwich and North Essex : c : No : No Party : Dissolved : syndicaterep
+%Hastings and Rye : c : No : No Party : Dissolved : syndicaterep
+%Havant : c : No : No Party : Dissolved : syndicaterep
+%Hayes and Harlington : c : No : No Party : Dissolved : syndicaterep
+%Hazel Grove : c : No : No Party : Dissolved : syndicaterep
+%Hemel Hempstead : c : No : No Party : Dissolved : syndicaterep
+%Hemsworth : c : No : No Party : Dissolved : syndicaterep
+%Hendon : c : No : No Party : Dissolved : syndicaterep
+%Henley : c : No : No Party : Dissolved : syndicaterep
+%Hereford and South Herefordshire : c : No : No Party : Dissolved : syndicaterep
+%Hertford and Stortford : c : No : No Party : Dissolved : syndicaterep
+%Hertsmere : c : No : No Party : Dissolved : syndicaterep
+%Hexham : c : No : No Party : Dissolved : syndicaterep
+%Heywood and Middleton : c : No : No Party : Dissolved : syndicaterep
+%High Peak : c : No : No Party : Dissolved : syndicaterep
+%Hitchin and Harpenden : c : No : No Party : Dissolved : syndicaterep
+%Holborn and St Pancras : c : No : No Party : Dissolved : syndicaterep
+%Hornchurch and Upminster : c : No : No Party : Dissolved : syndicaterep
+%Hornsey and Wood Green : c : No : No Party : Dissolved : syndicaterep
+%Horsham : c : No : No Party : Dissolved : syndicaterep
+%Houghton and Sunderland South : c : No : No Party : Dissolved : syndicaterep
+%Hove : c : No : No Party : Dissolved : syndicaterep
+%Huddersfield : c : No : No Party : Dissolved : syndicaterep
+%Huntingdon : c : No : No Party : Dissolved : syndicaterep
+%Hyndburn : c : No : No Party : Dissolved : syndicaterep
+%Ilford North : c : No : No Party : Dissolved : syndicaterep
+%Ilford South: c : No : No Party : Dissolved : syndicaterep
+%Ipswich : c : No : No Party : Dissolved : syndicaterep
+%Isle of Wight : c : No : No Party : Dissolved : syndicaterep
+%Islington North : c : No : No Party : Dissolved : syndicaterep
+%Islington South and Finsbury : c : No : No Party : Dissolved : syndicaterep
+%Jarrow : c : No : No Party : Dissolved : syndicaterep
+%Keighley : c : No : No Party : Dissolved : syndicaterep
+%Kenilworth and Southam	 : c : No : No Party : Dissolved : syndicaterep
+%Kensington : c : No : No Party : Dissolved : syndicaterep
+%Kettering : c : No : No Party : Dissolved : syndicaterep
+%Kingston and Surbiton : c : No : No Party : Dissolved : syndicaterep
+%Kingston upon Hull East : c : No : No Party : Dissolved : syndicaterep
+%Kingston upon Hull North : c : No : No Party : Dissolved : syndicaterep
+%Kingston upon Hull West and Hessle : c : No : No Party : Dissolved : syndicaterep
+%Kingswood : c : No : No Party : Dissolved : syndicaterep
+%Knowsley : c : No : No Party : Dissolved : syndicaterep
+%Lancaster and Fleetwood : c : No : No Party : Dissolved : syndicaterep
+%Leeds Central : c : No : No Party : Dissolved : syndicaterep
+%Leeds East : c : No : No Party : Dissolved : syndicaterep
+%Leeds North East : c : No : No Party : Dissolved : syndicaterep
+%Leeds North West : c : No : No Party : Dissolved : syndicaterep
+%Leeds West : c : No : No Party : Dissolved : syndicaterep
+%Leicester East : c : No : No Party : Dissolved : syndicaterep
+%Leicester South : c : No : No Party : Dissolved : syndicaterep
+%Leicester West : c : No : No Party : Dissolved : syndicaterep
+%Leigh : c : No : No Party : Dissolved : syndicaterep
+%Lewes : c : No : No Party : Dissolved : syndicaterep
+%Lewisham, Deptford : c : No : No Party : Dissolved : syndicaterep
+%Lewisham East : c : No : No Party : Dissolved : syndicaterep
+%Lewisham West and Penge : c : No : No Party : Dissolved : syndicaterep
+%Leyton and Wanstead : c : No : No Party : Dissolved : syndicaterep
+%Lichfield : c : No : No Party : Dissolved : syndicaterep
+%Lincoln : c : No : No Party : Dissolved : syndicaterep
+%Liverpool, Riverside : c : No : No Party : Dissolved : syndicaterep
+%Liverpool, Walton : c : No : No Party : Dissolved : syndicaterep
+%Liverpool, Wavertree : c : No : No Party : Dissolved : syndicaterep
+%Liverpool, West Derby : c : No : No Party : Dissolved : syndicaterep
+%Loughborough : c : No : No Party : Dissolved : syndicaterep
+%Louth and Horncastle : c : No : No Party : Dissolved : syndicaterep
+%Ludlow : c : No : No Party : Dissolved : syndicaterep
+%Luton North : c : No : No Party : Dissolved : syndicaterep
+%Luton South : c : No : No Party : Dissolved : syndicaterep
+%Macclesfield : c : No : No Party : Dissolved : syndicaterep
+%Maidenhead : c : No : No Party : Dissolved : syndicaterep
+%Maidstone and The Weald : c : No : No Party : Dissolved : syndicaterep
+%Makerfield : c : No : No Party : Dissolved : syndicaterep
+%Maldon : c : No : No Party : Dissolved : syndicaterep
+%Manchester Central : c : No : No Party : Dissolved : syndicaterep
+%Manchester, Gorton : c : No : No Party : Dissolved : syndicaterep
+%Manchester, Withington : c : No : No Party : Dissolved : syndicaterep
+%Mansfield : c : No : No Party : Dissolved : syndicaterep
+%Meon Valley : c : No : No Party : Dissolved : syndicaterep
+%Meriden : c : No : No Party : Dissolved : syndicaterep
+%Mid Bedfordshire : c : No : No Party : Dissolved : syndicaterep
+%Mid Derbyshire : c : No : No Party : Dissolved : syndicaterep
+%Mid Dorset and North Poole : c : No : No Party : Dissolved : syndicaterep
+%Mid Norfolk : c : No : No Party : Dissolved : syndicaterep
+%Mid Sussex : c : No : No Party : Dissolved : syndicaterep
+%Mid Worcestershire : c : No : No Party : Dissolved : syndicaterep
+%Middlesbrough : c : No : No Party : Dissolved : syndicaterep
+%Middlesbrough South and East Cleveland : c : No : No Party : Dissolved : syndicaterep
+%Milton Keynes North : c : No : No Party : Dissolved : syndicaterep
+%Milton Keynes South : c : No : No Party : Dissolved : syndicaterep
+%Mitcham and Morden : c : No : No Party : Dissolved : syndicaterep
+%Mole Valley : c : No : No Party : Dissolved : syndicaterep
+%Morecambe and Lunesdale : c : No : No Party : Dissolved : syndicaterep
+%Morley and Outwood : c : No : No Party : Dissolved : syndicaterep
+%New Forest East : c : No : No Party : Dissolved : syndicaterep
+%New Forest West : c : No : No Party : Dissolved : syndicaterep
+%Newark : c : No : No Party : Dissolved : syndicaterep
+%Newbury : c : No : No Party : Dissolved : syndicaterep
+%Newcastle-under-Lyme : c : No : No Party : Dissolved : syndicaterep
+%Newcastle upon Tyne Central : c : No : No Party : Dissolved : syndicaterep
+%Newcastle upon Tyne East: c : No : No Party : Dissolved : syndicaterep
+%Newcastle upon Tyne North: c : No : No Party : Dissolved : syndicaterep
+%Newton Abbot: c : No : No Party : Dissolved : syndicaterep
+%Normanton, Pontefract and Castleford : c : No : No Party : Dissolved : syndicaterep
+%North Cornwall : c : No : No Party : Dissolved : syndicaterep
+%North Devon : c : No : No Party : Dissolved : syndicaterep
+%North Dorset : c : No : No Party : Dissolved : syndicaterep
+%North Durham : c : No : No Party : Dissolved : syndicaterep
+%North East Bedfordshire : c : No : No Party : Dissolved : syndicaterep
+%North East Cambridgeshire : c : No : No Party : Dissolved : syndicaterep
+%North East Derbyshire : c : No : No Party : Dissolved : syndicaterep
+%North East Hampshire : c : No : No Party : Dissolved : syndicaterep
+%North East Hertfordshire: c : No : No Party : Dissolved : syndicaterep
+%North East Somerset : c : No : No Party : Dissolved : syndicaterep
+%North Herefordshire : c : No : No Party : Dissolved : syndicaterep
+%North Norfolk : c : No : No Party : Dissolved : syndicaterep
+%North Shropshire: c : No : No Party : Dissolved : syndicaterep
+%North Somerset : c : No : No Party : Dissolved : syndicaterep
+%North Swindon : c : No : No Party : Dissolved : syndicaterep
+%North Thanet : c : No : No Party : Dissolved : syndicaterep
+%North Tyneside : c : No : No Party : Dissolved : syndicaterep
+%North Warwickshire: c : No : No Party : Dissolved : syndicaterep
+%North West Cambridgeshire: c : No : No Party : Dissolved : syndicaterep
+%North West Durham : c : No : No Party : Dissolved : syndicaterep
+%North West Hampshire: c : No : No Party : Dissolved : syndicaterep
+%North West Leicestershire: c : No : No Party : Dissolved : syndicaterep
+%North West Norfolk : c : No : No Party : Dissolved : syndicaterep
+%North Wiltshire: c : No : No Party : Dissolved : syndicaterep
+%Northampton North : c : No : No Party : Dissolved : syndicaterep
+%Northampton South : c : No : No Party : Dissolved : syndicaterep
+%Norwich North : c : No : No Party : Dissolved : syndicaterep
+%Norwich South : c : No : No Party : Dissolved : syndicaterep
+%Nottingham East : c : No : No Party : Dissolved : syndicaterep
+%Nottingham North : c : No : No Party : Dissolved : syndicaterep
+%Nottingham South : c : No : No Party : Dissolved : syndicaterep
+%Nuneaton : c : No : No Party : Dissolved : syndicaterep
+%Old Bexley and Sidcup : c : No : No Party : Dissolved : syndicaterep
+%Oldham East and Saddleworth : c : No : No Party : Dissolved : syndicaterep
+%Oldham West and Royton : c : No : No Party : Dissolved : syndicaterep
+%Orpington : c : No : No Party : Dissolved : syndicaterep
+%Oxford East : c : No : No Party : Dissolved : syndicaterep
+%Oxford West and Abingdon : c : No : No Party : Dissolved : syndicaterep
+%Pendle: c : No : No Party : Dissolved : syndicaterep
+%Penistone and Stocksbridge : c : No : No Party : Dissolved : syndicaterep
+%Penrith and The Border : c : No : No Party : Dissolved : syndicaterep
+%Peterborough : c : No : No Party : Dissolved : syndicaterep
+%Plymouth, Moor View: c : No : No Party : Dissolved : syndicaterep
+%Plymouth, Sutton and Devonport : c : No : No Party : Dissolved : syndicaterep
+%Poole : c : No : No Party : Dissolved : syndicaterep
+%Poplar and Limehouse : c : No : No Party : Dissolved : syndicaterep
+%Portsmouth North : c : No : No Party : Dissolved : syndicaterep
+%Portsmouth South : c : No : No Party : Dissolved : syndicaterep
+%Preston: c : No : No Party : Dissolved : syndicaterep
+%Pudsey : c : No : No Party : Dissolved : syndicaterep
+%Putney : c : No : No Party : Dissolved : syndicaterep
+%Rayleigh and Wickford : c : No : No Party : Dissolved : syndicaterep
+%Reading East: c : No : No Party : Dissolved : syndicaterep
+%Reading West: c : No : No Party : Dissolved : syndicaterep
+%Redcar : c : No : No Party : Dissolved : syndicaterep
+%Redditch : c : No : No Party : Dissolved : syndicaterep
+%Reigate: c : No : No Party : Dissolved : syndicaterep
+%Ribble Valley : c : No : No Party : Dissolved : syndicaterep
+%Richmond(Yorks) : c : No : No Party : Dissolved : syndicaterep
+%Richmond Park : c : No : No Party : Dissolved : syndicaterep
+%Rochdale : c : No : No Party : Dissolved : syndicaterep
+%Rochester and Strood : c : No : No Party : Dissolved : syndicaterep
+%Rochford and Southend East : c : No : No Party : Dissolved : syndicaterep
+%Romford : c : No : No Party : Dissolved : syndicaterep
+%Romsey and Southampton North : c : No : No Party : Dissolved : syndicaterep
+%Rossendale and Darwen : c : No : No Party : Dissolved : syndicaterep
+%Rother Valley : c : No : No Party : Dissolved : syndicaterep
+%Rotherham : c : No : No Party : Dissolved : syndicaterep
+%Rugby : c : No : No Party : Dissolved : syndicaterep
+%Ruislip, Northwood and Pinner : c : No : No Party : Dissolved : syndicaterep
+%Runnymede and Weybridge : c : No : No Party : Dissolved : syndicaterep
+%Rushcliffe : c : No : No Party : Dissolved : syndicaterep
+%Rutland and Melton: c : No : No Party : Dissolved : syndicaterep
+%Saffron Walden : c : No : No Party : Dissolved : syndicaterep
+%Salford and Eccles : c : No : No Party : Dissolved : syndicaterep
+%Salisbury : c : No : No Party : Dissolved : syndicaterep
+%Scarborough and Whitby : c : No : No Party : Dissolved : syndicaterep
+%Scunthorpe : c : No : No Party : Dissolved : syndicaterep
+%Sedgefield : c : No : No Party : Dissolved : syndicaterep
+%Sefton Central : c : No : No Party : Dissolved : syndicaterep
+%Selby and Ainsty : c : No : No Party : Dissolved : syndicaterep
+%Sevenoaks : c : No : No Party : Dissolved : syndicaterep
+%Sheffield, Brightside and Hillsborough: c : No : No Party : Dissolved : syndicaterep
+%Sheffield Central: c : No : No Party : Dissolved : syndicaterep
+%Sheffield, Hallam : c : No : No Party : Dissolved : syndicaterep
+%Sheffield, Heeley : c : No : No Party : Dissolved : syndicaterep
+%Sheffield South East: c : No : No Party : Dissolved : syndicaterep
+%Sherwood : c : No : No Party : Dissolved : syndicaterep
+%Shipley : c : No : No Party : Dissolved : syndicaterep
+%Shrewsbury and Atcham : c : No : No Party : Dissolved : syndicaterep
+%Sittingbourne and Sheppey : c : No : No Party : Dissolved : syndicaterep
+%Skipton and Ripon : c : No : No Party : Dissolved : syndicaterep
+%Sleaford and North Hykeham: c : No : No Party : Dissolved : syndicaterep
+%Slough : c : No : No Party : Dissolved : syndicaterep
+%Solihull : c : No : No Party : Dissolved : syndicaterep
+%Somerton and Frome : c : No : No Party : Dissolved : syndicaterep
+%South Basildon and East Thurrock: c : No : No Party : Dissolved : syndicaterep
+%South Cambridgeshire : c : No : No Party : Dissolved : syndicaterep
+%South Derbyshire : c : No : No Party : Dissolved : syndicaterep
+%South Dorset : c : No : No Party : Dissolved : syndicaterep
+%South East Cambridgeshire : c : No : No Party : Dissolved : syndicaterep
+%South East Cornwall : c : No : No Party : Dissolved : syndicaterep
+%South Holland and The Deepings : c : No : No Party : Dissolved : syndicaterep
+%South Leicestershire : c : No : No Party : Dissolved : syndicaterep
+%South Norfolk : c : No : No Party : Dissolved : syndicaterep
+%South Northamptonshire : c : No : No Party : Dissolved : syndicaterep
+%South Ribble : c : No : No Party : Dissolved : syndicaterep
+%South Shields : c : No : No Party : Dissolved : syndicaterep
+%South Staffordshire : c : No : No Party : Dissolved : syndicaterep
+%South Suffolk: c : No : No Party : Dissolved : syndicaterep
+%South Swindon: c : No : No Party : Dissolved : syndicaterep
+%South Thanet : c : No : No Party : Dissolved : syndicaterep
+%South West Bedfordshire : c : No : No Party : Dissolved : syndicaterep
+%South West Devon : c : No : No Party : Dissolved : syndicaterep
+%South West Hertfordshire : c : No : No Party : Dissolved : syndicaterep
+%South West Norfolk : c : No : No Party : Dissolved : syndicaterep
+%South West Surrey : c : No : No Party : Dissolved : syndicaterep
+%South West Wiltshire : c : No : No Party : Dissolved : syndicaterep
+%Southampton, Itchen : c : No : No Party : Dissolved : syndicaterep
+%Southampton, Test : c : No : No Party : Dissolved : syndicaterep
+%Southend West : c : No : No Party : Dissolved : syndicaterep
+%Southport : c : No : No Party : Dissolved : syndicaterep
+%Spelthorne : c : No : No Party : Dissolved : syndicaterep
+%St Albans : c : No : No Party : Dissolved : syndicaterep
+%St Austell and Newquay : c : No : No Party : Dissolved : syndicaterep
+%St Helens North : c : No : No Party : Dissolved : syndicaterep
+%St Helens South and Whiston : c : No : No Party : Dissolved : syndicaterep
+%St Ives : c : No : No Party : Dissolved : syndicaterep
+%Stafford : c : No : No Party : Dissolved : syndicaterep
+%Staffordshire Moorlands : c : No : No Party : Dissolved : syndicaterep
+%Stalybridge and Hyde : c : No : No Party : Dissolved : syndicaterep
+%Stevenage : c : No : No Party : Dissolved : syndicaterep
+%Stockport : c : No : No Party : Dissolved : syndicaterep
+%Stockton North : c : No : No Party : Dissolved : syndicaterep
+%Stockton South : c : No : No Party : Dissolved : syndicaterep
+%Stoke-on-Trent Central : c : No : No Party : Dissolved : syndicaterep
+%Stoke-on-Trent North : c : No : No Party : Dissolved : syndicaterep
+%Stoke-on-Trent South: c : No : No Party : Dissolved : syndicaterep
+%Stone : c : No : No Party : Dissolved : syndicaterep
+%Stourbridge : c : No : No Party : Dissolved : syndicaterep
+%Stratford-on-Avon : c : No : No Party : Dissolved : syndicaterep
+%Streatham : c : No : No Party : Dissolved : syndicaterep
+%Stretford and Urmston: c : No : No Party : Dissolved : syndicaterep
+%Stroud: c : No : No Party : Dissolved : syndicaterep
+%Suffolk Coastal : c : No : No Party : Dissolved : syndicaterep
+%Sunderland Central : c : No : No Party : Dissolved : syndicaterep
+%Surrey Heath : c : No : No Party : Dissolved : syndicaterep
+%Sutton and Cheam : c : No : No Party : Dissolved : syndicaterep
+%Sutton Coldfield : c : No : No Party : Dissolved : syndicaterep
+%Tamworth : c : No : No Party : Dissolved : syndicaterep
+%Tatton : c : No : No Party : Dissolved : syndicaterep
+%Taunton Deane: c : No : No Party : Dissolved : syndicaterep
+%Telford : c : No : No Party : Dissolved : syndicaterep
+%Tewkesbury: c : No : No Party : Dissolved : syndicaterep
+%The Cotswolds : c : No : No Party : Dissolved : syndicaterep
+%The Wrekin : c : No : No Party : Dissolved : syndicaterep
+%Thirsk and Malton : c : No : No Party : Dissolved : syndicaterep
+%Thornbury and Yate : c : No : No Party : Dissolved : syndicaterep
+%Thurrock : c : No : No Party : Dissolved : syndicaterep
+%Tiverton and Honiton : c : No : No Party : Dissolved : syndicaterep
+%Tonbridge and Malling: c : No : No Party : Dissolved : syndicaterep
+%Tooting : c : No : No Party : Dissolved : syndicaterep
+%Torbay : c : No : No Party : Dissolved : syndicaterep
+%Torridge and West Devon : c : No : No Party : Dissolved : syndicaterep
+%Totnes : c : No : No Party : Dissolved : syndicaterep
+%Tottenham	 : c : No : No Party : Dissolved : syndicaterep
+%Truro and Falmouth : c : No : No Party : Dissolved : syndicaterep
+%Tunbridge Wells : c : No : No Party : Dissolved : syndicaterep
+%Twickenham : c : No : No Party : Dissolved : syndicaterep
+%Tynemouth : c : No : No Party : Dissolved : syndicaterep
+%Uxbridge and South Ruislip : c : No : No Party : Dissolved : syndicaterep
+%Vauxhall : c : No : No Party : Dissolved : syndicaterep
+%Wakefield : c : No : No Party : Dissolved : syndicaterep
+%Wallasey : c : No : No Party : Dissolved : syndicaterep
+%Walsall North : c : No : No Party : Dissolved : syndicaterep
+%Walsall South   : c : No : No Party : Dissolved : syndicaterep
+%Walthamstow	 : c : No : No Party : Dissolved : syndicaterep
+%Wansbeck : c : No : No Party : Dissolved : syndicaterep
+%Wantage	 : c : No : No Party : Dissolved : syndicaterep
+%Warley	 : c : No : No Party : Dissolved : syndicaterep
+%Warrington North : c : No : No Party : Dissolved : syndicaterep
+%Warrington South : c : No : No Party : Dissolved : syndicaterep
+%Warwick and Leamington : c : No : No Party : Dissolved : syndicaterep
+%Washington and Sunderland West : c : No : No Party : Dissolved : syndicaterep
+%Watford : c : No : No Party : Dissolved : syndicaterep
+%Waveney	 : c : No : No Party : Dissolved : syndicaterep
+%Wealden : c : No : No Party : Dissolved : syndicaterep
+%Weaver Vale : c : No : No Party : Dissolved : syndicaterep
+%Wellingborough : c : No : No Party : Dissolved : syndicaterep
+%Wells : c : No : No Party : Dissolved : syndicaterep
+%Welwyn Hatfield : c : No : No Party : Dissolved : syndicaterep
+%Wentworth and Dearne : c : No : No Party : Dissolved : syndicaterep
+%West Bromwich East	 : c : No : No Party : Dissolved : syndicaterep
+%West Bromwich West	 : c : No : No Party : Dissolved : syndicaterep
+%West Dorset : c : No : No Party : Dissolved : syndicaterep
+%West Ham    : c : No : No Party : Dissolved : syndicaterep
+%West Lancashire : c : No : No Party : Dissolved : syndicaterep
+%West Suffolk : c : No : No Party : Dissolved : syndicaterep
+%West Worcestershire : c : No : No Party : Dissolved : syndicaterep
+%Westminster North : c : No : No Party : Dissolved : syndicaterep
+%Westmorland and Lonsdale : c : No : No Party : Dissolved : syndicaterep
+%Weston-Super-Mare	 : c : No : No Party : Dissolved : syndicaterep
+%Wigan	 : c : No : No Party : Dissolved : syndicaterep
+%Wimbledon : c : No : No Party : Dissolved : syndicaterep
+%Winchester : c : No : No Party : Dissolved : syndicaterep
+%Windsor : c : No : No Party : Dissolved : syndicaterep
+%Wirral South    : c : No : No Party : Dissolved : syndicaterep
+%Wirral West : c : No : No Party : Dissolved : syndicaterep
+%Witham : c : No : No Party : Dissolved : syndicaterep
+%Witney : c : No : No Party : Dissolved : syndicaterep
+%Woking : c : No : No Party : Dissolved : syndicaterep
+%Wokingham : c : No : No Party : Dissolved : syndicaterep
+%Wolverhampton North East : c : No : No Party : Dissolved : syndicaterep
+%Wolverhampton South East : c : No : No Party : Dissolved : syndicaterep
+%Wolverhampton South Wes : c : No : No Party : Dissolved : syndicaterep
+%Worcester : c : No : No Party : Dissolved : syndicaterep
+%Workington : c : No : No Party : Dissolved : syndicaterep
+%Worsley and Eccles South : c : No : No Party : Dissolved : syndicaterep
+%Worthing West   : c : No : No Party : Dissolved : syndicaterep
+%Wycombe : c : No : No Party : Dissolved : syndicaterep
+%Wyre and Preston North : c : No : No Party : Dissolved : syndicaterep
+%Wyre Forest : c : No : No Party : Dissolved : syndicaterep
+%Wythenshawe and Sale East : c : No : No Party : Dissolved : syndicaterep
+%Yeovil : c : No : No Party : Dissolved : syndicaterep
+%York Central    : c : No : No Party : Dissolved : syndicaterep
+%York Outer : c : No : No Party : Dissolved : syndicaterep
+%Aberdeen North  : c : No : No Party : Dissolved : syndicaterep
+%Aberdeen South : c : No : No Party : Dissolved : syndicaterep
+%Airdrie and Shotts : c : No : No Party : Dissolved : syndicaterep
+%Angus : c : No : No Party : Dissolved : syndicaterep
+%Argyll and Bute : c : No : No Party : Dissolved : syndicaterep
+%Ayr, Carrick and Cumnock : c : No : No Party : Dissolved : syndicaterep
+%Banff and Buchan : c : No : No Party : Dissolved : syndicaterep
+%Berwickshire, Roxburgh and Selkirk : c : No : No Party : Dissolved : syndicaterep
+%Caithness, Sutherland and Easter Ross : c : No : No Party : Dissolved : syndicaterep
+%Central Ayrshire    : c : No : No Party : Dissolved : syndicaterep
+%Coatbridge, Chryston and Bellshill : c : No : No Party : Dissolved : syndicaterep
+%Cumbernauld, Kilsyth and Kirkintilloch East : c : No : No Party : Dissolved : syndicaterep
+%Dumfries and Galloway : c : No : No Party : Dissolved : syndicaterep
+%Dumfriesshire, Clydesdale and Tweeddale	 : c : No : No Party : Dissolved : syndicaterep
+%Dundee East     : c : No : No Party : Dissolved : syndicaterep
+%Dundee West : c : No : No Party : Dissolved : syndicaterep
+%Dunfermline and West Fife   : c : No : No Party : Dissolved : syndicaterep
+%East Dunbartonshire : c : No : No Party : Dissolved : syndicaterep
+%East Kilbride, Strathaven and Lesmahagow : c : No : No Party : Dissolved : syndicaterep
+%East Lothian    : c : No : No Party : Dissolved : syndicaterep
+%East Renfrewshire : c : No : No Party : Dissolved : syndicaterep
+%Edinburgh East : c : No : No Party : Dissolved : syndicaterep
+%Edinburgh North and Leith : c : No : No Party : Dissolved : syndicaterep
+%Edinburgh South     : c : No : No Party : Dissolved : syndicaterep
+%Edinburgh South West	 : c : No : No Party : Dissolved : syndicaterep
+%Edinburgh West  : c : No : No Party : Dissolved : syndicaterep
+%Falkirk : c : No : No Party : Dissolved : syndicaterep
+%Glasgow Central     : c : No : No Party : Dissolved : syndicaterep
+%Glasgow East    : c : No : No Party : Dissolved : syndicaterep
+%Glasgow North   : c : No : No Party : Dissolved : syndicaterep
+%Glasgow North East : c : No : No Party : Dissolved : syndicaterep
+%Glasgow North West : c : No : No Party : Dissolved : syndicaterep
+%Glasgow South : c : No : No Party : Dissolved : syndicaterep
+%Glasgow South West : c : No : No Party : Dissolved : syndicaterep
+%Glenrothes : c : No : No Party : Dissolved : syndicaterep
+%Gordon	 : c : No : No Party : Dissolved : syndicaterep
+%Inverclyde : c : No : No Party : Dissolved : syndicaterep
+%Inverness, Nairn, Badenoch and Strathspey : c : No : No Party : Dissolved : syndicaterep
+%Kilmarnock and Loudoun : c : No : No Party : Dissolved : syndicaterep
+%Kirkcaldy and Cowdenbeath : c : No : No Party : Dissolved : syndicaterep
+%Lanark and Hamilton East : c : No : No Party : Dissolved : syndicaterep
+%Linlithgow and East Falkirk : c : No : No Party : Dissolved : syndicaterep
+%Livingston : c : No : No Party : Dissolved : syndicaterep
+%Midlothian : c : No : No Party : Dissolved : syndicaterep
+%Moray : c : No : No Party : Dissolved : syndicaterep
+%Motherwell and Wishaw : c : No : No Party : Dissolved : syndicaterep
+%Na h-Eileanan an Iar	 : c : No : No Party : Dissolved : syndicaterep
+%North Ayrshire and Arran : c : No : No Party : Dissolved : syndicaterep
+%North East Fife	 : c : No : No Party : Dissolved : syndicaterep
+%Ochil and South Perthshire : c : No : No Party : Dissolved : syndicaterep
+%Orkney and Shetland : c : No : No Party : Dissolved : syndicaterep
+%Paisley and Renfrewshire North : c : No : No Party : Dissolved : syndicaterep
+%Paisley and Renfrewshire South : c : No : No Party : Dissolved : syndicaterep
+%Perth and North Perthshire : c : No : No Party : Dissolved : syndicaterep
+%Ross, Skye and Lochaber : c : No : No Party : Dissolved : syndicaterep
+%Rutherglen and Hamilton West : c : No : No Party : Dissolved : syndicaterep
+%Stirling : c : No : No Party : Dissolved : syndicaterep
+%West Aberdeenshire and Kincardine   : c : No : No Party : Dissolved : syndicaterep
+%West Dunbartonshire  : c : No : No Party : Dissolved : syndicaterep
+%Aberavon : c : No : No Party : Dissolved : syndicaterep
+%Aberconwy : c : No : No Party : Dissolved : syndicaterep
+%Alyn and Deeside : c : No : No Party : Dissolved : syndicaterep
+%Arfon : c : No : No Party : Dissolved : syndicaterep
+%Blaenau Gwent : c : No : No Party : Dissolved : syndicaterep
+%Brecon and Radnorshire : c : No : No Party : Dissolved : syndicaterep
+%Bridgend : c : No : No Party : Dissolved : syndicaterep
+%Caerphilly : c : No : No Party : Dissolved : syndicaterep
+%Cardiff Central : c : No : No Party : Dissolved : syndicaterep
+%Cardiff North : c : No : No Party : Dissolved : syndicaterep
+%Cardiff South and Penarth : c : No : No Party : Dissolved : syndicaterep
+%Cardiff West : c : No : No Party : Dissolved : syndicaterep
+%Carmarthen East and Dinefwr : c : No : No Party : Dissolved : syndicaterep
+%Carmarthen West and South Pembrokeshire : c : No : No Party : Dissolved : syndicaterep
+%Ceredigion : c : No : No Party : Dissolved : syndicaterep
+%Clwyd South : c : No : No Party : Dissolved : syndicaterep
+%Clwyd West  : c : No : No Party : Dissolved : syndicaterep
+%Cynon Valley : c : No : No Party : Dissolved : syndicaterep
+%Delyn : c : No : No Party : Dissolved : syndicaterep
+%Dwyfor Meirionnydd  : c : No : No Party : Dissolved : syndicaterep
+%Gower : c : No : No Party : Dissolved : syndicaterep
+%Islwyn : c : No : No Party : Dissolved : syndicaterep
+%Llanelli	 : c : No : No Party : Dissolved : syndicaterep
+%Merthyr Tydfil and Rhymney  : c : No : No Party : Dissolved : syndicaterep
+%Monmouth : c : No : No Party : Dissolved : syndicaterep
+%Montgomeryshire : c : No : No Party : Dissolved : syndicaterep
+%Neath	56,097 : c : No : No Party : Dissolved : syndicaterep
+%Newport East : c : No : No Party : Dissolved : syndicaterep
+%Newport West    : c : No : No Party : Dissolved : syndicaterep
+%Ogmore	55,572 : c : No : No Party : Dissolved : syndicaterep
+%Pontypridd	58,940 : c : No : No Party : Dissolved : syndicaterep
+%Preseli Pembrokeshire   : c : No : No Party : Dissolved : syndicaterep
+%Rhondda	 : c : No : No Party : Dissolved : syndicaterep
+%Swansea East    : c : No : No Party : Dissolved : syndicaterep
+%Swansea West : c : No : No Party : Dissolved : syndicaterep
+%Torfaen : c : No : No Party : Dissolved : syndicaterep
+%Vale of Clwyd	 : c : No : No Party : Dissolved : syndicaterep
+%Vale of Glamorgan	 : c : No : No Party : Dissolved : syndicaterep
+%Wrexham	 : c : No : No Party : Dissolved : syndicaterep
+%Ynys Môn    : c : No : No Party : Dissolved : syndicaterep
+%Belfast East    : c : No : No Party : Dissolved : syndicaterep
+%Belfast North   : c : No : No Party : Dissolved : syndicaterep
+%Belfast South   : c : No : No Party : Dissolved : syndicaterep
+%Belfast West    : c : No : No Party : Dissolved : syndicaterep
+%East Antrim     : c : No : No Party : Dissolved : syndicaterep
+%East Londonderry    : c : No : No Party : Dissolved : syndicaterep
+%Fermanagh and South Tyrone  : c : No : No Party : Dissolved : syndicaterep
+%Foyle	 : c : No : No Party : Dissolved : syndicaterep
+%Lagan Valley    : c : No : No Party : Dissolved : syndicaterep
+%Mid Ulster  : c : No : No Party : Dissolved : syndicaterep
+%Newry and Armagh	 : c : No : No Party : Dissolved : syndicaterep
+%North Antrim    : c : No : No Party : Dissolved : syndicaterep
+%North Down  : c : No : No Party : Dissolved : syndicaterep
+%South Antrim    : c : No : No Party : Dissolved : syndicaterep
+%South Down  : c : No : No Party : Dissolved : syndicaterep
+%Strangford	 : c : No : No Party : Dissolved : syndicaterep
+%Upper Bann  : c : No : No Party : Dissolved : syndicaterep
+%West Tyrone : c : No : No Party : Dissolved : syndicaterep
