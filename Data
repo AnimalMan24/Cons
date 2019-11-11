@@ -1,6 +1,6 @@
-%Aldershot : England : No : Dissolved : N/A : YourLocalRep : 00FDFF :
-%Aldridge-BrownHills: England : No : Dissolved : N/A : YourLocalRep : 00FDFF :
-%Altrincham and Sale West: England : No : Dissolved : N/A : YourLocalRep : FF0000 :
+%Aldershot : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Aldridge-BrownHills: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Altrincham and Sale West: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %AmberValley: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Arundel and South Downs: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Ashfield: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -15,7 +15,7 @@
 %Basildon and Billericay: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Basingstoke: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Bassetlaw: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Bath: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Bath: England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Batley and Spen: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Battersea: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Beaconsfield : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -89,7 +89,7 @@
 %Cannock Chase : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Canterbury : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Carlisle : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Carshalton and Wallington : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Carshalton and Wallington : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Castle Point : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Central Devon : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Central Suffolk and North Ipswich : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -152,7 +152,7 @@
 %East Surrey : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %East Worthing and Shoreham : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %East Yorkshire : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Eastbourne : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Eastbourne : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Eastleigh : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Eddisbury : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Edmonton : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -238,7 +238,7 @@
 %Kenilworth and Southam	 : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Kensington : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Kettering : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Kingston and Surbiton : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Kingston and Surbiton : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Kingston upon Hull East : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Kingston upon Hull North : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Kingston upon Hull West and Hessle : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -316,7 +316,7 @@
 %North East Hertfordshire: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %North East Somerset : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %North Herefordshire : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%North Norfolk : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%North Norfolk : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %North Shropshire: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %North Somerset : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %North Swindon : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -342,7 +342,7 @@
 %Oldham West and Royton : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Orpington : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Oxford East : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Oxford West and Abingdon : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Oxford West and Abingdon : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Pendle: England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Penistone and Stocksbridge : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Penrith and The Border : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -473,7 +473,7 @@
 %Tottenham	 : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Truro and Falmouth : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Tunbridge Wells : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Twickenham : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Twickenham : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Tynemouth : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Uxbridge and South Ruislip : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Vauxhall : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -505,7 +505,7 @@
 %West Suffolk : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %West Worcestershire : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Westminster North : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Westmorland and Lonsdale : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Westmorland and Lonsdale : England : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Weston-Super-Mare	 : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Wigan	 : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Wimbledon : England : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -539,7 +539,7 @@
 %Ayr, Carrick and Cumnock : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Banff and Buchan : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Berwickshire, Roxburgh and Selkirk : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Caithness, Sutherland and Easter Ross : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Caithness, Sutherland and Easter Ross : Scotland : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Central Ayrshire    : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Coatbridge, Chryston and Bellshill : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Cumbernauld, Kilsyth and Kirkintilloch East : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -548,7 +548,7 @@
 %Dundee East     : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Dundee West : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Dunfermline and West Fife   : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%East Dunbartonshire : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%East Dunbartonshire : Scotland : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %East Kilbride, Strathaven and Lesmahagow : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %East Lothian    : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %East Renfrewshire : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
@@ -556,7 +556,7 @@
 %Edinburgh North and Leith : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Edinburgh South(central)   : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Edinburgh South West	 : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
-%Edinburgh West  : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
+%Edinburgh West  : Scotland : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Falkirk : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
 %Glasgow Central     : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Glasgow East    : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
@@ -581,7 +581,7 @@
 %North Ayrshire and Arran : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %North East Fife	 : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Ochil and South Perthshire : Scotland : No : Dissolved : N/A : YourLocalRep : 7E7777 :
-%Orkney and Shetland : Scotland : No : Dissolved : N/A : YourLocalRep : FF975E :
+%Orkney and Shetland : Scotland : No : Dissolved : N/A : YourLocalRep : ECB84B :
 %Paisley and Renfrewshire North : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Paisley and Renfrewshire South : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
 %Perth and North Perthshire : Scotland : No : Dissolved : N/A : YourLocalRep : FFF35E :
